@@ -1,0 +1,8 @@
+user.email=zeldaababil01@gmail.com
+user.name=zeldaababil19
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/zeldaababil19/humanika-startup.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
