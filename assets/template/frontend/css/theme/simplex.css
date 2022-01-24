@@ -1972,7 +1972,7 @@
    font-size: 0.8125rem;
    line-height: 1.5;
    color: #444;
-   background-color: #3A2D78;
+   /* background-color: #3A2D78; */
    background-clip: padding-box;
    border: 1px solid #bbb;
    border-radius: 0.50rem;

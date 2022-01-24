@@ -3,7 +3,8 @@
   <ul>
 
     <body>
-      <li class='active'><a href='<?php echo base_url() ?>'><img src="assets/images/LOGO FIX.svg" alt="logo" style="width: 150px;"></a></li>
+
+      <li class='active'><a href='<?php echo base_url() ?>'><img src="<?php echo base_url('assets/images/LOGO FIX.svg') ?>" alt="logo" style="width: 150px;"></a></li>
       <!-- <a class="navbar-brand" href="<?php echo base_url() ?>">MallDesar</a> -->
     </body>
     <!-- <li class='active'><a href='<?= base_url('blog/paymentway') ?>'><i class=""></i>
